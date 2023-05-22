@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/juniorrmacedo/" />
-  <img height:"180cm" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" />
-  <img  width="318" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=donut&langs_count=5&theme=darcula" />
+  <img height:"180cm" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img  width="318" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=donut&langs_count=5&theme=vue-dark" />
 </div>
 
 <div style="display: inline_block"><br>
