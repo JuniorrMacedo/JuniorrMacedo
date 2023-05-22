@@ -15,7 +15,7 @@
   <img align="center" alt="Junior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   
-  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://cdn.discordapp.com/attachments/1106206969519407146/1110230755403116595/JR.gif" >
+  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://media.discordapp.net/attachments/1106206969519407146/1110311163239080066/JR-unscreen.gif" >
 </div>
 
 ##
