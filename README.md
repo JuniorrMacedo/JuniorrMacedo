@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/juniorrmacedo/" />
-  <img height:"180cm" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img  width="318" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=donut&langs_count=5&theme=vue-dark" />
+  <img height:"180cm" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=20" />
+  <img  width="318" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=donut&langs_count=5&theme=vue-dark&border_radius=20" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/juniorrmacedo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/juniorrmacedo/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> -->
   
   
