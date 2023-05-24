@@ -32,4 +32,4 @@ Desenvolvedor front-end em formação, apaixonado por novas tecnologias!
 
 <br/>
 
->“To do or not to do. There is no attempt” - Master Yoda
+>“Do or Do Not, There Is No Try” - Master Yoda
