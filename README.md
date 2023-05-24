@@ -1,10 +1,20 @@
 ## Idelmario Macedo, eu sou! 
 
+<br/>
+
 <div>
   <a href="https://www.linkedin.com/in/juniorrmacedo/" />
   <img height:"180cm" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=8" />
   <img  width="318" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=donut&langs_count=5&theme=vue-dark&border_radius=8" />
 </div>
+<br>
+
+Desenvolvedor front-end em formação, apaixonado por novas tecnologias!
+- Cientista da computação em formação; 💻
+- Aluno do Ignite - Rocketseat; 🚀
+- Codesenvolvedor do app [Whitebeard GPT Assistant](https://gpt.rehem.dev/); 👨🏻‍💻
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
