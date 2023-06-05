@@ -9,7 +9,7 @@
 </div>
 <br>
 
-Desenvolvedor front-end em formação, apaixonado por novas tecnologias!
+Desenvolvedor front-end, apaixonado por novas tecnologias!
 - Cientista da computação em formação; 💻
 - Aluno do Ignite - Rocketseat; 🚀
 - Codesenvolvedor do app [Whitebeard GPT Assistant](https://gpt.rehem.dev/); 👨🏻‍💻
