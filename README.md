@@ -1,4 +1,4 @@
-## Idelmario Macedo, eu sou! 
+## Idelmario Macedo, I am! 
 
 <br/>
 
@@ -9,10 +9,11 @@
 </div>
 <br>
 
-Desenvolvedor front-end, apaixonado por novas tecnologias!
-- Cientista da computação em formação; 💻
-- Aluno do Ignite - Rocketseat; 🚀
-- Codesenvolvedor do app [Whitebeard GPT Assistant](https://gpt.rehem.dev/); 👨🏻‍💻
+Full-stack developer, passionate about new technologies!
+- Computer science student; 💻
+- Ignite student - Rocketseat; 🚀
+- Co-developer of the [Whitebeard GPT Assistant](https://gpt.rehem.dev/); 👨🏻‍💻
+- Currently working as an intern at [@QueroDelivery](https://github.com/QueroDelivery); 👨🏻‍💻
 
 <br/>
 
