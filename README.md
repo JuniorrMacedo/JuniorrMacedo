@@ -10,7 +10,7 @@
 <br>
 
 Full-stack developer, passionate about new technologies!
-- Computer science student; 💻
+- Computer science; 💻
 - Ignite student - Rocketseat; 🚀
 - Co-developer of the [Whitebeard GPT Assistant](https://gpt.rehem.dev/); 👨🏻‍💻
 - Currently working as an intern at [@QueroDelivery](https://github.com/QueroDelivery); 👨🏻‍💻
