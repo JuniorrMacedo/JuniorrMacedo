@@ -29,8 +29,6 @@ Full-stack developer, passionate about new technologies!
   <a href = "mailto:idelmariocorreia@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/JuniorrMacedo/JuniorrMacedo/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 >“Do or Do Not, There Is No Try” - Master Yoda
