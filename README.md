@@ -19,7 +19,7 @@ Full-stack developer, passionate about new technologies!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Node" height="35" src="https://skills.thijs.gg/icons?i=html,js,nodejs,tailwind,react,ts,css,nextjs&theme=dark">
-  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://media.discordapp.net/attachments/1106206969519407146/1110311163239080066/JR-unscreen.gif" >
+  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://cdn.discordapp.com/attachments/1144252953419579502/1144287080369885238/Design-sem-nome-1--unscreen.gif" >
 </div>
 
 ##
