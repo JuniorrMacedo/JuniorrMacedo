@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/juniorrmacedo/" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=compact&langs_count=8&border_radius=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorrMacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorrMacedo&layout=compact&langs_count=8&theme=tokyonight&border_radius=8" />
 </div>
 <br>
 
