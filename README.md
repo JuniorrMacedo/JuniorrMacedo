@@ -31,3 +31,5 @@ Full-stack developer, passionate about new technologies!
 <br/>
 
 >“Do or Do Not, There Is No Try” - Master Yoda
+
+![snake gif](https://github.com/JuniorrMacedo/JuniorrMacedo/blob/output/github-contribution-grid-snake.svg)
