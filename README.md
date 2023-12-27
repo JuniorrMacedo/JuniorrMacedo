@@ -11,8 +11,7 @@
 
 Full-stack developer, passionate about new technologies!
 - Computer science; 💻
-- Ignite student - Rocketseat; 🚀
-- Currently working as an intern at [@QueroDelivery](https://github.com/QueroDelivery); 👨🏻‍💻
+- Currently working as a backend developer at [@QueroDelivery](https://github.com/QueroDelivery); 👨🏻‍💻
 
 <br/>
 
