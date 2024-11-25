@@ -17,7 +17,7 @@ Full-stack developer, passionate about new technologies!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Junior-Node" height="35" src="https://skillicons.dev/icons?i=js,nodejs,mongodb,linux,jest,react,ts&theme=dark">
-  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://cdn.discordapp.com/attachments/1144252953419579502/1144287080369885238/Design-sem-nome-1--unscreen.gif?ex=671d05e3&is=671bb463&hm=81304610068110f9b5390e00eaa78ac5d16b6133d92e850853a2a71a2f2524ed&" >
+  <img align="right" alt="Junior-GIF" height="140" width="140" src="https://cdn.discordapp.com/attachments/1144252953419579502/1144287080369885238/Design-sem-nome-1--unscreen.gif?ex=6745e463&is=674492e3&hm=ef950aef696101c248e9da565dd4a85ede3153f7a7d11098c71b12a3674e60b9&" >
 </div>
 
 ##
